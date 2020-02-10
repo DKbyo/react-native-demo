@@ -1,9 +1,5 @@
-Install dependencies
+# Run
 
-* `react-native link react-native-safe-area-context`
-* `react-native link react-native-svg`
-
-Install dependencies in iOS
-
-* Go to ./ios and run `pod install`
-
+* Install dependiences `yarn`
+* Run packager `yarn run start`
+* Run app `yarn run android`
